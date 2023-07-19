@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Heather Li | heatherhzli.com</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Heather Li | heatherhzli.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 18 Jul 2023 16:44:19 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water: Canada&#39;s Missing Human Right</title>
+      <link>http://example.org/posts/water/</link>
+      <pubDate>Tue, 18 Jul 2023 16:44:19 +0100</pubDate>
+      
+      <guid>http://example.org/posts/water/</guid>
+      <description>&lt;p&gt;An article I previously wrote for the Oxford Society of International Development, originally posted on February 28th, 2022.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

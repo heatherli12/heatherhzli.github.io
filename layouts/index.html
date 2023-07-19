@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+<style>
+    .posts-list {
+        position: relative;
+        padding-left: 200px;
+        top: 0;}
+
+</style>
+
+<h1>About</h1>
+
+<img src = "/profile.jpg"
+    alt = "A picture of the website's author!"
+    style = "float: right; margin-left: 20px; height:300px; width: auto; border: solid grey 1px; padding: 2px">
+
+<p>
+Hi! I'm Heather, a Canadian-turned-international-student studying Philosophy, Politics and Economics (PPE) at St Catherine's College @ Oxford. Currently, I'm working on my senior thesis on how international climate agreements interact with climate justice. Broadly, I'm curious about International Relations, specifically at the intersection of international institutions, climate change, and empire.
+</p>
+
+<p>
+At Oxford, I'm involved primarily in debating and student journalism. I currently serve as the Director of Print for Oxford Student Publications Limited. Previously, I was the Chair of Competitive Debating at the Oxford Union, the North America Events Officer for the Oxford Society for International Development (OxSID), and the Ethics and Environment Representative at St Catherine's College. You can see more of what I'm up to <a href = "/projects"> here</a>.
+</p>
+
+<p>
+If anything I've done or written about interests you, please feel free to get in touch! You can reach me at my email, <a href = "mailto:heather.hz.li@gmail.com"> heather.hz.li@gmail.com </a> or check out my <a href = "https://www.linkedin.com/in/heather-li-540578155/"> Linkedin</a>, <a href = "https://github.com/heatherli12"> Github</a>, or my <a href = "https://twitter.com/heatherhzli"> Twitter</a>.
+</p>
+
+</br>
+
+<h1>Latest Posts</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+</br>
+<!--
+<h1>Latest Photos</h1>
+
+<div class="image-grid">
+{{ with .Site.GetPage "/photos" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+<br/>
+-->
+
+<h1> Currently Reading </h1>
+<p>
+<i>Orientalism, Edward Said.</i>
+</p>
+
+{{ end }}

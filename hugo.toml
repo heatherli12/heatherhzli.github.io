@@ -1,0 +1,15 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-uk'
+title = 'Heather Li | heatherhzli.com'
+theme = 'hugo-theme-console'
+
+[params]
+
+  # navlinks
+  [[params.navlinks]]
+  name = "projects/"
+  url = "projects/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"

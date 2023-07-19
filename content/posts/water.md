@@ -1,0 +1,58 @@
+---
+title: "Water: Canada's Missing Human Right"
+date: 2023-07-18T16:44:19+01:00
+draft: false
+
+---
+
+An article I previously wrote for the Oxford Society of International Development, originally posted on February 28th, 2022. 
+<!--more-->
+
+---
+
+*On January 20th, 2003, the Twenty-Ninth Session of the Committee on Economic, Social and Cultural Rights adopted General Comment no. 15: The Right to Water. It reaffirmed and clarified the standards for water rights for individuals all across the world. However, as of November 1, 2021, 71 Canadian First Nations communities are under water advisories, meaning the water is either unsafe to use or consume. Some communities, like the Grassy Narrows (Asubpeeschoseewagong) in Ontario, face decades long mercury poisoning into their water supplies. How did this happen? And more importantly, why hasn’t anything been done?*
+
+# Grassy Narrows and Iqaluit
+
+The story of Grassy Narrows is perhaps one of the most well-known stories of Canada’s decade long neglect of water rights of Indigenous communities. The problem originated in the 1960s and 70s, where a chemical plant upstream of where Grassy Narrows is located dumped 9000 kg of mercury into the water sources of the community. The mercury poisoning has affected three generations, with over 90% of Grassy Narrows residents experiencing the effects, which range from movement disorders to mental health crises, epitomized in the death of Azraya Ackabee-Kokopenace in 2016. 
+
+The problem is exacerbated by the lack of adequate healthcare present in the region. Only one small nursing station is present on the reserve, and mental health counselling is functionally non-existent. Economic support in the area is hard to come by: the Mercury Disability Board established to help support residents in the Grassy Narrows region denies 75% of all claims made to the board as of 2014, and the criteria for accessing the funds have not changed since 1985. Even if members can access the funds of the board, monthly support can be as little as 250CAD a month (~145GBP). This is combined with the economic collapse of the Grassy Narrows community that occurred shortly after scientists reported the contamination in 1970, which shut down the tourism fishing industry that was the backbone of the local economy. 
+
+There is some progress in Grassy Narrows. In 2017, the Ontario government pledged 85 million CAD (50 million GBP) to clean up the mercury near Grassy Narrows First Nations. In 2020, 68.9 million CAD (40.4 million GBP) was approved to care for those who were experiencing the health impacts of mercury-related diseases. However, the long-lasting damage of mercury poisoning in Grassy Narrows, and the continued lack of access to safe tap water in the community still means the water crisis is not yet solved.
+
+Grassy Narrows’ experience is representative of many other communities in Canada, some of whom have been under water advisories for more than 10 years. The Bearskin Lake First Nation has had a “Do Not Consume” advisory for over 15 years, and the Nestantaga First Nation (in a similar region to Grassy Narrows) has had a boil-water advisory for over 25 years as they wait for the upgrade of their water treatment plant.
+
+However, it is important to note that water advisories are not merely the relic of old water policies that the Canadian government has been slow to rectify. Water advisories get created on a frequent basis all across Canada. The Council of Canadians finds that 73% of First Nations water systems are at “high or medium risk of contamination”. New water crises are created constantly due the Canadian government’s neglect of Indigenous water rights. In September 2021, the water supplies of the capital city Iqaluit in Nunavut (a predominantly Indigenous territory) were contaminated with fuel. The city was put under a do-not-consume order for about two months, before it was finally lifted in December 2021. During this time, hospital procedures were shut down for 8 days and residents of Iqaluit’s more remote regions (especially those without access to transportation) were often left stranded for water. While the problem has currently been alleviated, there is still ongoing uncertainty with the fuel contamination from the water with the fuel leak, with a boil-water advisory being reinstated in January 2022 as a “precautionary measure”, although water is being pumped from a different source in the meantime.
+
+# Sources of the Problem
+
+How the water crisis has been allowed to continue for so long cannot be boiled down into one single reason, and is probably best described as a framework of factors that contribute to Canada’s lack of water provision for Indigenous individuals. First, First Nations and Indigenous individuals have generally been excluded from decision-making and land planning practices of their land. This is especially problematic given the system of “reserves” in Canada, where First Nations communities do not own the land they live on, but rather are seen as occupying federal land. Since there is a general lack of community control, much of the infrastructure is outdated and inappropriate land use (such as the plant mentioned in Grassy Narrows) are built despite health risks. Acts like the Indian Act of 1876 entrench the inability for Indigenous communities to contribute to how infrastructure and plants get built by constitutionally embedding the power imbalance into decision frameworks. Importantly, the reason for the water crisis is not the difference in the water quality of where individuals live. In Grassy Narrows, the water provided a lively tourism fishing industry before the mercury spill. 
+
+Secondly, these power imbalances in decision making makes it possible to not consult Indigenous communities regarding their infrastructure. The policy consequences this leads to can be massive. Note that the Canadian government has not spent insignificant amounts of money on trying to “fix” the water crisis. In 2003, the government promised 1.6 billion CAD of investments to address water shortages, and added an additional 60 million CAD in 2006. In 2015, Justin Trudeau committed to ending all long-term water advisories in Canada. This included spending 2 billion CAD in 2016 and an additional 1.5 billion in 2020 to accelerate the work on ending these advisories. As of November 2021, 26% of long-term water advisories still remain in place. While it may seem positive that nearly 75% of advisories were lifted, a report by the Auditor General in February 2021 noted that much of the work done on lifting long-term water advisories seemed to be interim rather than long-term solutions to the problem. The actual condition of First Nations water systems in Canada, measured by risk ratings, had not changed between the 2014-2015 fiscal year and the 2019-2020 year.
+
+Finally, outdated policies make it difficult for agencies to ensure that funding and regulation for clean water can maintain the short-term changes that the government has made. First, the formula for how funding for operations and maintenance can be obtained has not been updated in 30 years. This significantly limits the applicability of recent funding increases: if the framework for receiving money has not changed, it is unlikely that the money will be distributed well. The interim changes will deteriorate if there is no long-term framework to maintain the systems built. Second, there is no regulatory regime to uphold standards of clean water in Indigenous communities. This is compared to most Canadian communities that have standards of clean water that must be protected, whereas Indigenous communities do not have the same protections afforded to them. While the Safe Drinking Water for First Nations Act was passed in 2013, granting the federal government the authority to establish this regulatory framework, it still has not passed and thus no enforceable standards can be applied onto First Nations water. Finally, federal monitoring of water does not include wells, even though 20% of First Nations communities rely on wells for their water supply. There is also no tracking of waterborne illnesses or deaths that could be related to water quality. This data gap means that there will be some areas of water quality that could go unaddressed until these gaps are filled.
+
+While the water crisis has been looking up, with more attention and emphasis placed on guaranteeing Canada’s first residents their basic rights, a long-term framework for making sure these rights are maintained is key to reducing the number of water advisories across the nation.
+
+## Sources
+
+https://storymaps.arcgis.com/stories/52a5610cca604175b8fb35bccf165f96
+
+https://www.refworld.org/pdfid/4538838d11.pdf
+
+https://www.cbc.ca/news2/interactives/children-of-the-poisoned-river-mercury-poisoning-grassy-narrows-first-nation/
+
+https://www.cbc.ca/news/canada/thunder-bay/ontario-mercury-cleanup-1.4180631
+
+https://www.bbc.co.uk/news/world-us-canada-59253088
+
+https://nunatsiaq.com/stories/article/no-timeline-for-bringing-water-treatment-online-in-iqaluit/
+
+https://www.iqaluit.ca/news/do-not-consume-order-lifted
+
+Baijius, W., Patrick, R. (2019). “We Don’t Drink the Water Here”: The Reproduction of Undrinkable Water for First Nations in Canada. Water, 11 (1109). doi: 10.3390/w11051079
+
+https://www.oag-bvg.gc.ca/internet/English/parl_oag_202102_03_e_43749.html
+
+https://www.theguardian.com/world/2021/apr/30/canada-first-nations-justin-trudeau-drinking-water
+
