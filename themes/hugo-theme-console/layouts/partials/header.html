@@ -1,1 +1,4 @@
 <!-- Keep - override to add code to <header /> tag -->
+{{ with .Site.Params.favicon }}
+<link rel="shortcut icon" href="{{ . }}" />
+{{ end }}
