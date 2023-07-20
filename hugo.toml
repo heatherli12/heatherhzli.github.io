@@ -4,6 +4,8 @@ title = 'Heather Li | heatherhzli.com'
 theme = 'hugo-theme-console'
 
 [params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
 
   # navlinks
   [[params.navlinks]]
@@ -13,3 +15,6 @@ theme = 'hugo-theme-console'
   [[params.navlinks]]
   name = "posts/"
   url = "posts/"
+
+  #description
+  description = "The personal website of Heather Li, a final year student at the University of Oxford!"
