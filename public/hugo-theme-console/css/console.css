@@ -70,7 +70,7 @@
     --global-line-height: 1.625em;
     --page-width: 50em;
     --display-h1-decoration: 1;
-    --code-bg-color: #fff;
+    --code-bg-color: #f8f8f8;
 }
 
 @media only screen and (max-width: 850px) {
