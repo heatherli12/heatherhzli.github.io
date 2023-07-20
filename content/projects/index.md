@@ -24,6 +24,7 @@ I'm currently working primarily on independent projects and supporting speech in
 
 - Researcher @ [Righting History](rightinghistory.ca), exploring the vast amounts of untold history within Canada and the power behind who gets to tell your story. 
 - Convenor of [Oxford Schools](oxfordschools.net), the largest high school level debating competition in the world in over 5 continents and 1500+ participants. Very thankful to have scaled this competition more internationally and expanding debate access in the UK.
+- Chair of Competitive Debating at the Oxford Union, managing a yearly budget of £40k+ and over a hundred active debaters at the largest debating society in Europe.
 - Research Assistant @ Department of Economics, Oxford. Creating a system to catalogue and display the policy research and writings of the Department.
 - Worked as a consultant with the Oxford Strategy Group, advising a Fortune 500 company on how to comply with biodiversity regulation in the UK and Europe.
 - Research Micro-Intern @ Faculty of English Language and Literature, Oxford, researching parliamentary culture in the 1600s.
