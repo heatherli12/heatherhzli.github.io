@@ -20,7 +20,7 @@ theme = 'hugo-theme-console'
   description = "The personal website of Heather Li, a final year student at the University of Oxford!"
 
   #favicon
-  favicon = "img/favicon/favicon.ico"
+  favicon = "static/img/favicon/favicon.ico"
   
 [taxonomies]
    tag = "tags"
