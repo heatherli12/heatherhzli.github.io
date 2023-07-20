@@ -1,13 +1,33 @@
 {{ define "main" }}
 
+<style>
+    .posts-list {
+        position: relative;
+        padding-left: 200px;
+        top: 0;}
+</style>
+
 <h1>About</h1>
 
-<p>
-Console is a minimal, responsive and light theme for Hugo inspired by Linux console.  <a href="about/">(more)</a>
-</p>
-<br/>
+<img src = "/profile.jpg"
+    alt = "A picture of the website's author!"
+    style = "float: right; margin-left: 20px; height:300px; width: auto; border: solid grey 1px; padding: 2px">
 
-<h1>Latest posts</h1>
+<p>
+Hi! I'm Heather, a Canadian-turned-international-student studying Philosophy, Politics and Economics (PPE) at St Catherine's College @ Oxford. Currently, I'm working on my senior thesis on how international climate agreements interact with climate justice. Broadly, I'm curious about International Relations, specifically at the intersection of international institutions, climate change, and empire.
+</p>
+
+<p>
+At Oxford, I'm involved primarily in debating and student journalism. I currently serve as the Director of Print for Oxford Student Publications Limited. Previously, I was the Chair of Competitive Debating at the Oxford Union, the North America Events Officer for the Oxford Society for International Development (OxSID), and the Ethics and Environment Representative at St Catherine's College. You can see more of what I'm up to <a href = "content/projects/index.md"> here</a>.
+</p>
+
+<p>
+If anything I've done or written about interests you, please feel free to get in touch! You can reach me at my email, <a href = "mailto:heather.hz.li@gmail.com"> heather.hz.li@gmail.com </a> or check out my <a href = "https://www.linkedin.com/in/heather-li-540578155/"> Linkedin</a>, <a href = "https://github.com/heatherli12"> Github</a>, or my <a href = "https://twitter.com/heatherhzli"> Twitter</a>.
+</p>
+
+<hr>
+
+<h1>Latest Posts</h1>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/posts" }}
@@ -23,7 +43,9 @@ Console is a minimal, responsive and light theme for Hugo inspired by Linux cons
 {{ end }}
 </div>
 
-<h1>Latest photos</h1>
+</br>
+<!--
+<h1>Latest Photos</h1>
 
 <div class="image-grid">
 {{ with .Site.GetPage "/photos" }}
@@ -38,5 +60,13 @@ Console is a minimal, responsive and light theme for Hugo inspired by Linux cons
     {{ end }}
 {{ end }}
 </div>
+
+<br/>
+-->
+
+<h1> Currently Reading </h1>
+<p>
+<i>Orientalism, Edward Said.</i>
+</p>
 
 {{ end }}
