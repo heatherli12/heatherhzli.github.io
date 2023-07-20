@@ -18,3 +18,6 @@ theme = 'hugo-theme-console'
 
   #description
   description = "The personal website of Heather Li, a final year student at the University of Oxford!"
+  
+[taxonomies]
+   tag = "tags"
