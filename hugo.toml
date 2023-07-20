@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://heatherhzli.com'
 languageCode = 'en-uk'
 title = 'Heather Li | heatherhzli.com'
 theme = 'hugo-theme-console'
@@ -20,7 +20,7 @@ theme = 'hugo-theme-console'
   description = "The personal website of Heather Li, a final year student at the University of Oxford!"
 
   #favicon
-  favicon = "img/favicon/favicon.io"
+  favicon = "static/favicon_io/favicon.ico"
   
 [taxonomies]
    tag = "tags"
